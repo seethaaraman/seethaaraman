@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌐 My Portfolio
 
-<!--
-**seethaaraman/seethaaraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and achievements as a developer/designer/engineer. It’s a space where I present who I am, what I do, and how to get in touch with me.
 
-Here are some ideas to get you started:
+## 🔗 Live Demo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(https://chipper-zabaione-64dcab.netlify.app/)
+
+## 📌 Features
+
+- ✨ Modern, responsive design
+- 💼 Project showcase with descriptions and live/demo links
+- 📄 Resume/CV download
+- 🛠️ Tech stack section
+- 📬 Contact form or social links
+
+## 🧰 Technologies Used
+
+- HTML / CSS / JavaScript
+- [React.js](https://reactjs.org/) 
+
